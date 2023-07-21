@@ -4,6 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+![Image alt](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 <!--
 **stefaniafrolovafrolov/stefaniafrolovafrolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
