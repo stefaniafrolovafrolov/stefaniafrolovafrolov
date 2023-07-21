@@ -1,8 +1,8 @@
-### Приветствую Всех в своем репозитории 👋
+### 👋
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Вадим</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Приветствую Всех в своем репозитории</h3>
 
 ![Image alt](https://camo.githubusercontent.com/f6ceef6182b0f307f57a53dce6d6f1e5821019109609bbcdf4b776e912949503/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966)
 <!--
