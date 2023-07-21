@@ -10,9 +10,9 @@
 
 <h3 align="center">Меня зовут Вадим, я Фронтенд-Разработчик!</h3>
 
-<div style="display: flex; justify-content: center;">
+<h3 align="center">
 <img src="https://camo.githubusercontent.com/f6ceef6182b0f307f57a53dce6d6f1e5821019109609bbcdf4b776e912949503/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966" alt="альтернативный текст" style="width: 80%;" align="center">
-</div>
+</h3>
 
 
 <!--
