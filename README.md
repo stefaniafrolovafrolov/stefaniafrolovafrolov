@@ -11,7 +11,7 @@
 
 <h1 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14D238&background=3E23FF00&width=435&" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14D238&background=3E23FF00&width=435" alt="Typing SVG" /></a>
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><h3 align="center">Меня зовут Вадим, я Frontend Developer!</h3></h1>
 
