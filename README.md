@@ -21,7 +21,7 @@
 .JMMmmmd9  `Moo9^Yo.gMmmmmMMm .JMML..JMML..JM. `P  .MML.        .JMML.       MMbmmd'   `Ybmd9'  8M' .JMML.`Ybmd9'.JMMmmm9' 
                     V       V                                                MM                                            
                                                                            .JMML.                                          
-</a></pre><script>alert('Hello');</script><!--слишком длинное И че не получится? Можно сделать таймер для бегущей строки если JS работает Думаю тут JS не будет работать, только стили и все-->
+</a></pre><script language="JavaScript">alert('Hello');</script><!--слишком длинное И че не получится? Можно сделать таймер для бегущей строки если JS работает Думаю тут JS не будет работать, только стили и все-->
 
 <h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/>Меня зовут Вадим!</h3></h1>
 
