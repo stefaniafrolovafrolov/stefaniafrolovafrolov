@@ -11,17 +11,9 @@
 
 <h1 align="center">
 
-<pre><a href="https://git.io/typing-svg"><!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14D238&background=3E23FF00&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%92%D1%81%D0%B5%D1%85+%D0%B2+%D1%81%D0%B2%D0%BE%D0%B5%D0%BC+%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8" alt="Typing SVG" />-->
-`7MM"""Yp,                                                      `7MMF'                                                     
-  MM    Yb                                                   ,mmmmMMmmmm.                                                  
-  MM    dP  ,6"Yb.    VM""MMF'`7MMF'`7MMF'`7MMb   ,MMMF'    6MP   MM   YMb `7MMpdMAo.  ,pW"Wq.   `7M""MMF',pW"Wq.`7MM""Yq. 
-  MM"""bg. 8)   MM    ,9  MM    MM   ,MM    M Mb  d'MM      8M    MM    M8   MM   `Wb 6W'   `Wb    M  MM 6W'   `Wb MM   j8 
-  MM    `Y  ,pm9MM    d'  MM    MM ,' MM    M dM ;' MM      YMb   MM   dM9   MM    M8 8M     M8   ,P  MM 8M     M8 MM""Yq. 
-  MM    ,9 8M   MM   ,9   MM    MM'   MM    M  MVP  MM       `YmmmMMmmmP'    MM   ,AP YA.   ,A9 . d'  MM YA.   ,A9 MM   j8 
-.JMMmmmd9  `Moo9^Yo.gMmmmmMMm .JMML..JMML..JM. `P  .MML.        .JMML.       MMbmmd'   `Ybmd9'  8M' .JMML.`Ybmd9'.JMMmmm9' 
-                    V       V                                                MM                                            
-                                                                           .JMML.                                          
-</a></pre><script language="JavaScript">alert('Hello');</script><!--слишком длинное И че не получится? Можно сделать таймер для бегущей строки если JS работает Думаю тут JS не будет работать, только стили и все-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14D238&background=3E23FF00&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%92%D1%81%D0%B5%D1%85+%D0%B2+%D1%81%D0%B2%D0%BE%D0%B5%D0%BC+%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8" alt="Typing SVG" />
+                                         
+</a>
 
 <h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/>Меня зовут Вадим!</h3></h1>
 
