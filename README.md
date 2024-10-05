@@ -25,6 +25,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Увлечения: В свободное время активно занимаюсь спортом, чтением технических статей и изучением новых технологий.
 - Как со мной связаться: Написать в телеграм: https://t.me/vadimbmwm5 или на email: stefaniafrolovafrolov@yandex.ru
 
+- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
