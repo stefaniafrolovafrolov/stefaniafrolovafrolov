@@ -11,7 +11,7 @@
 
 <h1 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14D238&background=3E23FF00&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%92%D1%81%D0%B5%D1%85+%D0%B2+%D1%81%D0%B2%D0%BE%D0%B5%D0%BC+%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8;%D0%AF+Frontend-Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14D238&background=3E23FF00&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%92%D1%81%D0%B5%D1%85+%D0%B2+%D1%81%D0%B2%D0%BE%D0%B5%D0%BC+%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8;" alt="Typing SVG" /></a>
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><h3 align="center">Меня зовут Вадим, я Frontend Developer!</h3></h1>
 
