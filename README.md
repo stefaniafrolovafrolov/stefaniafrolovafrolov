@@ -68,7 +68,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg?plain=1" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-plain.svg?plain=1" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-plain.svg?plain=1" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-plain.svg?plain=1" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg?plain=1" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
