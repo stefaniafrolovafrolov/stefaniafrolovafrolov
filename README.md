@@ -72,6 +72,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg?plain=1" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/10562/10562284.png" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/919/919831.png" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/11024/11024424.png" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
 
