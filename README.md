@@ -30,7 +30,7 @@
 
 Как со мной связаться:
 - Написать в телеграм: https://t.me/orbitasystems
-- Email:stefaniafrolovafrolov@yandex.ru
+- Написать на Email:stefaniafrolovafrolov@yandex.ru
 - Сайт Веб студии: https://orbitasystems.ru/
 
 ### :hammer_and_wrench: Languages and Tools :
