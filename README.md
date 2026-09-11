@@ -25,6 +25,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - О себе: Предприниматель! Я занимаюсь разработкой внешнего и внутреннего интерфейса для создания веб-приложений.
 - Увлечения: В свободное время активно занимаюсь спортом, чтением технических статей и изучением новых технологий.
 - Как со мной связаться: Написать в телеграм: https://t.me/orbitasystems или на email: stefaniafrolovafrolov@yandex.ru
+- Сайт Веб студии: https://orbitasystems.ru/
 
 ### :hammer_and_wrench: Languages and Tools :
 
